@@ -190,7 +190,6 @@ void lock_pairs(void)
     }
     return;
 }
-//看桌面哈哈屁眼 晚安
 bool cycle(int w, int l)
 {
     if (locked[l][w] == true)
